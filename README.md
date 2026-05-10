@@ -1,19 +1,74 @@
 # Wholesale Ops Intelligence
-### Logistics and Inventory Optimization Framework
 
-**Architect:** Irem Victor Chinonso  
-**Context:** Wholesale Depot Operations (Ife, Nigeria)
+> Turning manual stock books into a live business intelligence system.
 
-## Overview
-This framework is designed to move wholesale operations from manual tracking to data-driven intelligence. It focuses on inventory precision, sales velocity analysis, and logistics optimization.
-
-## Key Modules
-- **Inventory Lifecycle Management:** Real-time tracking of stock levels and automated restock triggers.
-- **Sales Velocity Index:** Algorithmic determination of product turnover rates to optimize capital allocation.
-- **Logistics Intelligence:** Framework for tracking delivery efficiency and depot throughput.
-
-## Professional Application
-Developed to support the "Wholesale Ops Dashboard," this logic ensures that high-volume depots maintain 100% data integrity and zero stock-out events.
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Operations%20Intelligence-orange)
 
 ---
-*Built for the Statistical Strategy Vault.*
+
+## The Problem
+
+Most wholesale depots in emerging markets run on manual stock books, paper invoices, and memory. There is no real-time visibility into what is selling, what is running low, or where revenue is leaking.
+
+This framework fixes that.
+
+---
+
+## What It Does
+
+A business intelligence framework for wholesale operations — built for real-world deployment at a bottled water distribution depot in Ife, Nigeria.
+
+### Core Modules
+
+**Inventory Lifecycle Management**
+- Real-time stock level tracking
+- Automated restock trigger alerts
+- Stock movement history log
+
+**Sales Velocity Index**
+- Algorithmic calculation of product turnover rates
+- Identifies fast-moving vs slow-moving SKUs
+- Weekly velocity trend analysis
+
+**Revenue Intelligence Dashboard**
+- Daily revenue logging and aggregation
+- Customer frequency and spend analysis
+- Google Sheets live dashboard integration
+
+**Logistics Coordination Layer**
+- Delivery tracking and scheduling
+- Supplier order management
+- Distribution route logging
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|---|---|
+| Language | Python 3.9+ |
+| Data Layer | Google Sheets API, pandas |
+| Dashboard | Google Sheets (live) |
+| Automation | Google Apps Script, cron |
+
+---
+
+## Real-World Context
+
+This system is actively used at a wholesale depot in Ife, Osun State, Nigeria. Built and maintained by the depot's Sales and Operations Associate — not a simulation.
+
+---
+
+## About the Architect
+
+**Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
+HubSpot RevOps & Reporting Certified. B.Sc. Statistics @ OAU.
+
+- Email: princeville45@gmail.com
+- GitHub: [github.com/princeville45](https://github.com/princeville45)
+
+---
+
+*Real operations. Real data. Real results.*
