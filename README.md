@@ -23,24 +23,24 @@ A business intelligence framework for wholesale operations — built for real-wo
 ### Core Modules
 
 **Inventory Lifecycle Management**
-- Real-time stock level tracking
-- Automated restock trigger alerts
-- Stock movement history log
+. Real-time stock level tracking
+. Automated restock trigger alerts
+. Stock movement history log
 
 **Sales Velocity Index**
-- Algorithmic calculation of product turnover rates
-- Identifies fast-moving vs slow-moving SKUs
-- Weekly velocity trend analysis
+. Algorithmic calculation of product turnover rates
+. Identifies fast-moving vs slow-moving SKUs
+. Weekly velocity trend analysis
 
 **Revenue Intelligence Dashboard**
-- Daily revenue logging and aggregation
-- Customer frequency and spend analysis
-- Google Sheets live dashboard integration
+. Daily revenue logging and aggregation
+. Customer frequency and spend analysis
+. Google Sheets live dashboard integration
 
 **Logistics Coordination Layer**
-- Delivery tracking and scheduling
-- Supplier order management
-- Distribution route logging
+. Delivery tracking and scheduling
+. Supplier order management
+. Distribution route logging
 
 ---
 
@@ -66,8 +66,8 @@ This system is actively used at a wholesale depot in Ife, Osun State, Nigeria. B
 **Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
 HubSpot RevOps & Reporting Certified. B.Sc. Statistics @ OAU.
 
-- Email: princeville45@gmail.com
-- GitHub: [github.com/princeville45](https://github.com/princeville45)
+. Email: princeville45@gmail.com
+. GitHub: [github.com/princeville45](https://github.com/princeville45)
 
 ---
 
